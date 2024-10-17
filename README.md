@@ -16,6 +16,7 @@ To build and run this project, you need:
 - C++ compiler with C++20 support (e.g., GCC 10+, Clang 10+, or Visual Studio 2019+)
 - CMake 3.15 or higher
 - Conan package manager
+- Ninja Build System
 
 ## Building the Project
 
