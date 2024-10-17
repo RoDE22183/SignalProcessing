@@ -1,0 +1,20 @@
+# ninja log v5
+2	803	7508513573657592	CMakeFiles/waveform_generator.dir/src/main.cpp.obj	415c4835334f4896
+7	850	7508542112468295	CMakeFiles/waveform_generator.dir/src/squarewave.cpp.obj	44160f543aca9738
+2	841	7508542112329397	CMakeFiles/waveform_generator.dir/src/sinwave.cpp.obj	6cf67a274f16224d
+2	44	7508542408908614	waveform_generator.lib	b94fb1e070a749b0
+2	886	7508544962006045	CMakeFiles/waveform_generator-exe.dir/src/main.cpp.obj	3395de638b1a2149
+751	840	7508542416834894	waveform_generator-exe.exe	2b164b02f821a2b6
+2	966	7508545422887806	CMakeFiles/waveform_generator.dir/src/triangelwave.cpp.obj	20d8a8cd95cbf626
+11	998	7508545423096895	CMakeFiles/waveform_generator.dir/src/dsp.cpp.obj	1bda76923b95cc16
+999	1037	7508545423571243	waveform_generator.lib	db35672511491500
+1038	1130	7508545424419680	waveform_generator-exe.exe	2b164b02f821a2b6
+2	879	7508546249157543	CMakeFiles/waveform_generator-exe.dir/src/main.cpp.obj	3395de638b1a2149
+880	982	7508546250108570	waveform_generator-exe.exe	2b164b02f821a2b6
+14	1021	7508556735711827	CMakeFiles/waveform_generator.dir/src/triangelwave.cpp.obj	20d8a8cd95cbf626
+2	1022	7508556735879447	CMakeFiles/waveform_generator.dir/src/sinwave.cpp.obj	6cf67a274f16224d
+18	1023	7508556736269994	CMakeFiles/waveform_generator.dir/src/dsp.cpp.obj	1bda76923b95cc16
+7	1024	7508556735571734	CMakeFiles/waveform_generator.dir/src/squarewave.cpp.obj	44160f543aca9738
+22	1054	7508556737753711	CMakeFiles/waveform_generator-exe.dir/src/main.cpp.obj	3395de638b1a2149
+1024	1071	7508556737947839	waveform_generator.lib	db35672511491500
+1071	1162	7508556738762692	waveform_generator-exe.exe	2b164b02f821a2b6
