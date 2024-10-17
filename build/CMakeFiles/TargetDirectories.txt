@@ -1,4 +1,0 @@
-D:/Code/Signaling_Assignment/build/CMakeFiles/waveform_generator.dir
-D:/Code/Signaling_Assignment/build/CMakeFiles/waveform_generator-exe.dir
-D:/Code/Signaling_Assignment/build/CMakeFiles/edit_cache.dir
-D:/Code/Signaling_Assignment/build/CMakeFiles/rebuild_cache.dir
