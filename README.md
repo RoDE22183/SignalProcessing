@@ -33,12 +33,12 @@ To build and run this project, you need:
 
 3. Configure the project with CMake:
    ```
-   cmake ..
+   cmake .. -GNinja -DCMAKE_BUILD_TYPE=Release
    ```
 
 4. Build the project:
    ```
-   cmake --build .
+   ninja
    ```
 
 ## Running the Program
