@@ -1,17 +1,22 @@
 # Build directories
-build/
-out/
+/build/
+/out/
+/bin/
+/lib/
 
 # CMake files
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
 Makefile
+*.cmake
+!CMakeLists.txt
 
 # Conan files
 conanbuildinfo.*
 conaninfo.txt
 graph_info.json
+conan.lock
 
 # Compiled Object files
 *.slo
@@ -28,17 +33,59 @@ graph_info.json
 *.dylib
 *.dll
 
+# Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
 # Executables
 *.exe
 *.out
 *.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
 
 # IDE-specific files
 .vscode/
 .idea/
 *.swp
 *.swo
+*.user
+*.userosscache
+*.sln.docstates
 
 # OS-specific files
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Ninja build files
+.ninja_deps
+.ninja_log
+build.ninja
+
+# Visual Studio specific
+*.VC.db
+*.VC.opendb
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.VC.opendb
